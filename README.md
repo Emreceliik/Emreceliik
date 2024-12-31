@@ -1,4 +1,10 @@
-## Hi there 👋
+# Merhaba! 👋 Ben EMRE.  
+Yazılım geliştirici, tasarımcı ve teknoloji tutkunu. 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Emreceliik)  
+[![Website](https://img.shields.io/badge/Web_Site-gray?style=flat&logo=google-chrome)](emreceliik.itch.io)  
+- 🌱 Şu anda öğreniyorum: **Unity, React, Node.js**  
+- 💻 Uzmanlık alanlarım: **C#, Python, JavaScript**  
+- 🔭 Aktif olarak üzerinde çalıştığım proje: [Proje Adı](https://github.com/insanitygamestd/mvsmsurvivorr)  
 
 <!--
 **Emreceliik/Emreceliik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
