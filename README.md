@@ -1,7 +1,7 @@
 <p align="center">
   # Hello! 👋 I'm EMRE  
   A passionate Software Developer, Designer, and Technology Enthusiast. 🚀  
-</p>
+</p>  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Emreceliik">
