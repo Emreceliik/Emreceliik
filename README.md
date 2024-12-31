@@ -8,7 +8,7 @@ A passionate Software Developer, Designer, and Technology Enthusiast. 🚀
 - 💻 Expertise in: **C#, Python, JavaScript**  
 - 🔭 Actively working on: [MVSMSurvivor](https://github.com/insanitygamestd/mvsmsurvivorr)  
 
-![Coding Gif]([https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif] 
+![Coding Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
 
 ---
 
