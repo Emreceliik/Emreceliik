@@ -1,6 +1,8 @@
 <p align="center">
   # Hello! 👋 I'm EMRE  
   A passionate Software Developer, Designer, and Technology Enthusiast. 🚀  
+  <img src="https://komarev.com/ghpvc/?username=Emreceliik" alt="Profile Views" />
+  
 </p>  
 
 <p align="center">
@@ -51,10 +53,9 @@
 
 
   
-  <img src="https://komarev.com/ghpvc/?username=Emreceliik" alt="Profile Views" />
+<p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Emreceliik&bg_color=ffffff&color=333333&line=333333&point=ff0000&area=true&hide_border=true" alt="Activity Graph" />
   <img src="https://github.com/Emreceliik/github-calendar-stats/blob/master/generated/overview.svg" alt="Contributions Calendar" />
-<p align="center">
 </p>
 
 
