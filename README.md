@@ -61,8 +61,9 @@
 
 
 <p align="center">
-</p>
   ## 🔭 More Stats  
+</p>
+  
   <img src="https://img.shields.io/github/stars/Emreceliik?style=social" alt="Total Stars" />
   <img src="https://img.shields.io/github/followers/Emreceliik?label=Follow&style=social" alt="Followers" />
 
