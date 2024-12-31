@@ -25,7 +25,7 @@
   ## 📊 GitHub Stats  
 </p>
 
----
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Emreceliik&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -35,7 +35,7 @@
 <p align="center">
  ## 🌟 Featured Projects
 </p>
----
+
 
 <p align="center">
     
@@ -48,7 +48,7 @@
 <p align="center">
  ## 📈 Additional GitHub Stats  
 </p>
----
+
 
 <p align="center">
   
@@ -57,7 +57,7 @@
   <img src="https://github.com/Emreceliik/github-calendar-stats/blob/master/generated/overview.svg" alt="Contributions Calendar" />
 </p>
 
----
+
 
 <p align="center">
   ## 🔭 More Stats  
