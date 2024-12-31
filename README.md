@@ -9,6 +9,9 @@ Yazılım geliştirici, tasarımcı ve teknoloji tutkunu. 🚀
 ![Coding Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emreceliik&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emreceliik&layout=compact&theme=radical)
+## Öne Çıkan Projeler  
+- [Proje 2](https://github.com/Emreceliik/HanimEliWeb): Kadin Emegi'ne hoş geldiniz! Kadın girişimcilerin ev yapımı ürünlerini satabilecekleri eşsiz bir e-ticaret platformu. Ev yemekleri, örgüler, boncuklar ve çantalar gibi çeşitli el yapımı ürünler burada satışa sunuluyor. 💪💖 
+- [Proje 1](https://github.com/Emreceliik/Alsana): Ürün satın alabiliceğiniz bir e-ticaret sitesi
 
 <!--
 **Emreceliik/Emreceliik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
