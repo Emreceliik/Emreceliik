@@ -30,21 +30,26 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emreceliik&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<p align="center">
+ ## 🌟 Featured Projects
+</p>
 ---
 
 <p align="center">
-  ## 🌟 Featured Projects  
+    
   - **[Women Empowerment Platform](https://github.com/Emreceliik/HanimEliWeb)**  
     A unique e-commerce platform empowering women entrepreneurs to sell their handcrafted goods. From home-cooked meals to knitting, beadwork, and bags – discover a world of creativity. 💪💖  
 
   - **[Alsana](https://github.com/Emreceliik/Alsana)**  
     A modern e-commerce website where you can explore and purchase products effortlessly.  
 </p>
-
+<p align="center">
+ ## 📈 Additional GitHub Stats  
+</p>
 ---
 
 <p align="center">
-  ## 📈 Additional GitHub Stats  
+  
   <img src="https://komarev.com/ghpvc/?username=Emreceliik" alt="Profile Views" />
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Emreceliik&bg_color=ffffff&color=333333&line=333333&point=ff0000&area=true&hide_border=true" alt="Activity Graph" />
   <img src="https://github.com/Emreceliik/github-calendar-stats/blob/master/generated/overview.svg" alt="Contributions Calendar" />
