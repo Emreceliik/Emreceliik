@@ -18,8 +18,8 @@
   - 🔭 Actively working on: <a href="https://github.com/insanitygamestd/mvsmsurvivorr">MVSMSurvivor</a>  
 </p>
 
-<p align="center">
   ![Coding Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
+<p align="center">
 </p>
 
 ---
