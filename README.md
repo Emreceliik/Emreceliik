@@ -20,12 +20,12 @@
 
   ![Coding Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
 <p align="center">
+  ## 📊 GitHub Stats  
 </p>
 
 ---
 
 <p align="center">
-  ## 📊 GitHub Stats  
   <img src="https://github-readme-stats.vercel.app/api?username=Emreceliik&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emreceliik&layout=compact&theme=radical" alt="Top Languages" />
 </p>
