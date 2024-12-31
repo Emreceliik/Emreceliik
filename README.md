@@ -1,29 +1,31 @@
-# Merhaba! 👋 Ben EMRE.  
-Yazılım geliştirici, tasarımcı ve teknoloji tutkunu. 🚀
+# Hello! 👋 I'm EMRE  
+A passionate Software Developer, Designer, and Technology Enthusiast. 🚀  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Emreceliik)  
-[![itch.io](https://img.shields.io/badge/Web_Site-gray?style=flat&logo=google-chrome)](emreceliik.itch.io)  
-- 🌱 Şu anda öğreniyorum: **Unity, React, Node.js**  
-- 💻 Uzmanlık alanlarım: **C#, Python, JavaScript**  
-- 🔭 Aktif olarak üzerinde çalıştığım proje: [Proje Adı](https://github.com/insanitygamestd/mvsmsurvivorr)  
-![Coding Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emreceliik&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emreceliik&layout=compact&theme=radical)
-## Öne Çıkan Projeler  
-- [Kadın Emegi](https://github.com/Emreceliik/HanimEliWeb): Kadin Emegi'ne hoş geldiniz! Kadın girişimcilerin ev yapımı ürünlerini satabilecekleri eşsiz bir e-ticaret platformu. Ev yemekleri, örgüler, boncuklar ve çantalar gibi çeşitli el yapımı ürünler burada satışa sunuluyor. 💪💖 
-- [Alsana](https://github.com/Emreceliik/Alsana): Ürün satın alabiliceğiniz bir e-ticaret sitesi
+[![itch.io](https://img.shields.io/badge/My_Portfolio-gray?style=flat&logo=google-chrome)](https://emreceliik.itch.io)  
 
-<!--
-**Emreceliik/Emreceliik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning: **Unity, React, Node.js**  
+- 💻 Expertise in: **C#, Python, JavaScript**  
+- 🔭 Actively working on: [MVSMSurvivor](https://github.com/insanitygamestd/mvsmsurvivorr)  
 
-Here are some ideas to get you started:
+![Coding Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emreceliik&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emreceliik&layout=compact&theme=radical)  
+
+---
+
+## 🌟 Featured Projects  
+
+- **[Women Empowerment Platform](https://github.com/Emreceliik/HanimEliWeb)**  
+  A unique e-commerce platform empowering women entrepreneurs to sell their handcrafted goods. From home-cooked meals to knitting, beadwork, and bags – discover a world of creativity. 💪💖  
+
+- **[Alsana](https://github.com/Emreceliik/Alsana)**  
+  A modern e-commerce website where you can explore and purchase products effortlessly.  
+
+---
+
+Stay tuned for more exciting projects! 🌟✨  
