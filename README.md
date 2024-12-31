@@ -2,7 +2,6 @@
   # Hello! 👋 I'm EMRE  
   A passionate Software Developer, Designer, and Technology Enthusiast. 🚀  
   <img src="https://komarev.com/ghpvc/?username=Emreceliik" alt="Profile Views" />
-  
 </p>  
 
 <p align="center">
@@ -15,19 +14,22 @@
 </p>
 
 <p align="center">
-  - 🌱 Currently learning: <strong>Unity, React, Node.js</strong>  </p>
-  <p align="center">
-  - 💻 Expertise in: <strong>C#, C++, .NET</strong></p>
-  <p align="center">  
+  - 🌱 Currently learning: <strong>Unity, React, Node.js</strong>  
+</p>
+<p align="center">
+  - 💻 Expertise in: <strong>C#, C++, .NET</strong>
+</p>
+<p align="center">  
   - 🔭 Actively working on: <a href="https://github.com/insanitygamestd/mvsmsurvivorr">MVSMSurvivor</a>  
 </p>
 
-  ![Coding Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Gif" />
+</p>
+
 <p align="center">
   ## 📊 GitHub Stats  
 </p>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Emreceliik&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -35,23 +37,16 @@
 </p>
 
 <p align="center">
- ## 🌟 Featured Projects
+  ## 🌟 Featured Projects  
 </p>
 
-
 <p align="center">
-    
   - **[Women Empowerment Platform](https://github.com/Emreceliik/HanimEliWeb)**  
     A unique e-commerce platform empowering women entrepreneurs to sell their handcrafted goods. From home-cooked meals to knitting, beadwork, and bags – discover a world of creativity. 💪💖  
 
   - **[Alsana](https://github.com/Emreceliik/Alsana)**  
     A modern e-commerce website where you can explore and purchase products effortlessly.  
 </p>
-
-
-
-
-
 
 <p align="center">
   Stay tuned for more exciting projects! 🌟✨  
