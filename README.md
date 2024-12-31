@@ -5,7 +5,7 @@ A passionate Software Developer, Designer, and Technology Enthusiast. 🚀
 [![itch.io](https://img.shields.io/badge/My_Portfolio-gray?style=flat&logo=google-chrome)](https://emreceliik.itch.io)  
 
 - 🌱 Currently learning: **Unity, React, Node.js**  
-- 💻 Expertise in: **C#, Python, JavaScript**  
+- 💻 Expertise in: **C#, C++, .NET**  
 - 🔭 Actively working on: [MVSMSurvivor](https://github.com/insanitygamestd/mvsmsurvivorr)  
 
 ![Coding Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
