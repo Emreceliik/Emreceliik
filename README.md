@@ -14,7 +14,9 @@
 
 <p align="center">
   - 🌱 Currently learning: <strong>Unity, React, Node.js</strong>  
-  - 💻 Expertise in: <strong>C#, C++, .NET</strong>  
+  
+  - 💻 Expertise in: <strong>C#, C++, .NET</strong>
+    
   - 🔭 Actively working on: <a href="https://github.com/insanitygamestd/mvsmsurvivorr">MVSMSurvivor</a>  
 </p>
 
