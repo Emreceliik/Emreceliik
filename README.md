@@ -60,12 +60,7 @@
 
 
 
-<p align="center">
-  ## 🔭 More Stats  
-</p>
-  
-  <img src="https://img.shields.io/github/stars/Emreceliik?style=social" alt="Total Stars" />
-  <img src="https://img.shields.io/github/followers/Emreceliik?label=Follow&style=social" alt="Followers" />
+
 
 <p align="center">
   Stay tuned for more exciting projects! 🌟✨  
