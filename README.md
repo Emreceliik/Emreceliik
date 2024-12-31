@@ -1,7 +1,7 @@
 # Merhaba! 👋 Ben EMRE.  
 Yazılım geliştirici, tasarımcı ve teknoloji tutkunu. 🚀
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Emreceliik)  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Emreceliik)  
 [![Website](https://img.shields.io/badge/Web_Site-gray?style=flat&logo=google-chrome)](emreceliik.itch.io)  
 - 🌱 Şu anda öğreniyorum: **Unity, React, Node.js**  
 - 💻 Uzmanlık alanlarım: **C#, Python, JavaScript**  
