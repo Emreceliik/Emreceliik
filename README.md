@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  - 🌱 Currently learning: <strong>Unity, React, Node.js</strong>  
-  
-  - 💻 Expertise in: <strong>C#, C++, .NET</strong>
-    
+  - 🌱 Currently learning: <strong>Unity, React, Node.js</strong>  </p>
+  <p align="center">
+  - 💻 Expertise in: <strong>C#, C++, .NET</strong></p>
+  <p align="center">  
   - 🔭 Actively working on: <a href="https://github.com/insanitygamestd/mvsmsurvivorr">MVSMSurvivor</a>  
 </p>
 
