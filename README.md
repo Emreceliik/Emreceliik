@@ -47,16 +47,7 @@
   - **[Alsana](https://github.com/Emreceliik/Alsana)**  
     A modern e-commerce website where you can explore and purchase products effortlessly.  
 </p>
-<p align="center">
- ## 📈 Additional GitHub Stats  
-</p>
 
-
-  
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Emreceliik&bg_color=ffffff&color=333333&line=333333&point=ff0000&area=true&hide_border=true" alt="Activity Graph" />
-  <img src="https://github.com/Emreceliik/github-calendar-stats/blob/master/generated/overview.svg" alt="Contributions Calendar" />
-</p>
 
 
 
