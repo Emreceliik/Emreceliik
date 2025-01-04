@@ -20,7 +20,9 @@
   - 💻 Expertise in: <strong>C#, C++, .NET</strong>
 </p>
 <p align="center">  
-  - 🔭 Actively working on: <a href="https://github.com/insanitygamestd/mvsmsurvivorr">MVSMSurvivor</a>  
+  - 🔭 Actively working on: 
+    <a href="https://github.com/insanitygamestd/mvsmsurvivorr">MVSMSurvivor</a> and 
+    <a href="https://github.com/Emreceliik/GJGcase">GJGcase</a>  
 </p>
 
 <p align="center">
@@ -40,14 +42,15 @@
  ## 🌟 Featured Projects
 </p>
 
-
 <p align="center">
-    
   - **[Women Empowerment Platform](https://github.com/Emreceliik/HanimEliWeb)**  
     A unique e-commerce platform empowering women entrepreneurs to sell their handcrafted goods. From home-cooked meals to knitting, beadwork, and bags – discover a world of creativity. 💪💖  
 
   - **[Alsana](https://github.com/Emreceliik/Alsana)**  
-    A modern e-commerce website where you can explore and purchase products effortlessly.  
+    A modern e-commerce website where you can explore and purchase products effortlessly.
+
+  - **[GJGcase](https://github.com/Emreceliik/GJGcase)**  
+    A dynamic game project where you collapse and blast groups of same-colored blocks. Features dynamic group icons and a smart shuffling solution. 🚀  
 </p>
 
 <p align="center">
