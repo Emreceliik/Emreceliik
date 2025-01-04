@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  - **[Women Empowerment Platform](https://github.com/Emreceliik/HanimEliWeb)**  
+   - **[Women Empowerment Platform](https://github.com/Emreceliik/HanimEliWeb)**  
     A unique e-commerce platform empowering women entrepreneurs to sell their handcrafted goods. From home-cooked meals to knitting, beadwork, and bags – discover a world of creativity. 💪💖  
 
   - **[Alsana](https://github.com/Emreceliik/Alsana)**  
