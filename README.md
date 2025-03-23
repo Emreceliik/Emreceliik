@@ -44,7 +44,7 @@
 
 <p align="center">
   
-  - **[GJGcase](https://github.com/Emreceliik/GJGcase)**  
+  - **[PointAndClick](https://github.com/Emreceliik/GJGcase)**  
     A dynamic game project where you collapse and blast groups of same-colored blocks. Features dynamic group icons and a smart shuffling solution. 🚀
     
    - **[WomenEmpowermentPlatform](https://github.com/Emreceliik/HanimEliWeb)**  
