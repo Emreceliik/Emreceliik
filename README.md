@@ -13,21 +13,14 @@
   </a>  
 </p>
 
-<p align="center">
-  - 🌱 Currently learning: <strong>Unity, React, Node.js</strong>  
-</p>
+
 <p align="center">
   - 💻 Expertise in: <strong>C#, C++, .NET</strong>
 </p>
-<p align="center">  
-  - 🔭 Actively working on: 
-    <a href="https://github.com/insanitygamestd/mvsmsurvivorr">MVSMSurvivor</a> and 
-    <a href="https://github.com/Emreceliik/GJGcase">GJGcase</a>  
-</p>
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Gif" />
-</p>
+
 
   <p align="center">
       ## 📊 GitHub Stats  
